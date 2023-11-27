@@ -1,0 +1,14 @@
+inspectnn
+tqdm
+click
+tabulate
+json5
+scikit_learn
+scipy
+tensorflow
+tflite
+tensorflow_intel
+yellowbrick
+pandas
+scikit-learn
+scipy
